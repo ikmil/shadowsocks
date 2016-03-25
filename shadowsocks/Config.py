@@ -1,8 +1,8 @@
 #Config
-MYSQL_HOST = 'mdss.mengsky.net'
+MYSQL_HOST = 'mysql.ikmil.com'
 MYSQL_PORT = 3306
-MYSQL_USER = 'ss'
-MYSQL_PASS = 'ss'
+MYSQL_USER = 'admin'
+MYSQL_PASS = 'yzq123153'
 MYSQL_DB = 'shadowsocks'
 
 MANAGE_PASS = 'ss233333333'
