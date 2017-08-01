@@ -2,7 +2,7 @@
 MYSQL_HOST = 'mysql.ikmil.com'
 MYSQL_PORT = 3306
 MYSQL_USER = 'admin'
-MYSQL_PASS = 'yzq123153'
+MYSQL_PASS = ''
 MYSQL_DB = 'shadowsocks'
 
 MANAGE_PASS = 'ss233333333'
